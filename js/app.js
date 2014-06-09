@@ -52,6 +52,8 @@ $(document).keyup(function(key){
 	}
 });
 
+$(".logo").fadeOut(3000);
+$(".instructions").fadeIn(4000);
 
 });
 

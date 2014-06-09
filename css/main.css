@@ -11,6 +11,25 @@ body {
 
 }
 
+.logo {
+background-image: url('../images/logo.jpg');
+width: 621px;
+height: 300px;
+float: right;
+margin-right: 128px;
+margin-top: 45px;
+  /*display: inline-block;*/
+}
+
+.instructions {
+  width: 621px;
+height: 300px;
+float: right;
+margin-right: 128px;
+margin-top: 45px;
+font-size: 32px;
+}
+
 .ryu-ready, .ryu-still, .ryu-throwing , .ryu-cool{
   width: 659px;
   height: 494px;
@@ -45,3 +64,5 @@ top: 167px;
 left: 520px;
 float: left;
 }
+
+
